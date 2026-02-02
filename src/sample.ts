@@ -171,5 +171,4 @@ server.listen(PORT, () => {
   console.log("- Provide completion summary with word count");
 });
 
-
 // https://developers.cloudflare.com/agents/guides/human-in-the-loop/
